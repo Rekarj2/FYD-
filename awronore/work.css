@@ -1,0 +1,397 @@
+.body{
+    width:900px !important;
+}
+
+.saqf{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    
+}
+
+.zman{
+    margin-left: 390px;
+    border-style: solid;
+    border-color: #e2e8f0;
+    border-width: 2px;
+    border-radius: 10px;
+   
+}
+
+.zman:hover{
+border-color:#00BFBC;
+
+}
+ 
+.main{
+    color: black !important;
+    margin-left: 20px !important;
+}
+.main:hover{
+    color:#00BFBC !important;
+   
+}
+
+.mrg{
+    margin-top: 110px;
+}
+
+
+.spc{
+    appearance: none;
+    color: #a0aec0;
+    border-color: #a0aec0;
+    box-shadow: 0px 0px 7px 0px;
+    margin-left: 30px;
+    
+}
+
+.spc:hover{
+    border-color: #00BFBC;
+    color: grey !important;
+    box-shadow: 0px 0px 7px 0px;
+}
+
+.p{
+    text-align: center;
+    color:#00BFBC;
+    text-transform: uppercase;
+    transform: translate(170px, 20px);
+}
+
+.ul{
+    margin-left: 390px;
+    list-style: circle;
+}
+
+.register2{
+    background-color:#0D949E ;
+    color: white;
+    transition: 0.5s;
+    margin-left: 400px;
+    font-size: 15px;
+    
+}
+.register2:hover{
+    color: white;
+    background-color: #1D5D79;
+}
+
+
+.image2{
+    width: 250px;
+    transform: translate(-80px, 200px);
+}
+.card{
+    text-decoration: none !important;
+}
+
+.image3{
+    width: 350px;
+    transform: translate(-10px, -270px);
+    
+}
+
+.cardsd{
+    transform: translate(70px,150px);
+   background-color: #29335C;
+height: 400px;
+   display: flex;
+   line-height: 1.5;
+border-radius: 10px;
+}
+
+
+.join{
+    background-color: #F2545B;
+    color: white;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 190px;
+}
+.join:hover{
+    color: white;
+}
+
+.doctor{
+    font-size: 3rem;
+    color: white;
+    margin-left: 380px;
+    margin-top: 30px;
+    font-weight: 400;
+  
+    
+}
+
+.h2{
+    color: #00BFBC;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-left: 380px;
+}
+
+.last{
+    color: white;
+    margin-left: 380px;
+}
+
+.image4{
+    width: 1000px;
+}
+
+.store{
+    width: 60px ;
+  margin-left:4rem ;
+  margin-top: 1rem;
+}
+
+.all{
+    box-sizing: border-box;
+    border-width: 0px;
+    border-style: solid;
+    border-color: #e2e8f0;
+    width: 100%!important;
+    height: 600px;
+    border-radius: 10px;
+    line-height: 1.5;
+    background: rgb(231, 235, 238) !important;
+    transform: translate(0px, 250px);
+    
+  
+}
+
+.phones{
+    display: block;
+    text-indent: -9999px;
+    width: 600px;
+    height:100%;
+    background: url(https://awronore.krd/img/awronore-mobile-mockup.cd87cb98.jpg);
+   position: absolute;
+   right: 0px;
+   top: 0px;
+   background-repeat: no-repeat;
+}
+
+
+.first{
+    transform: translate(30px, 50px);
+    line-height: -10px;
+    margin: -0.5px;
+}
+
+
+.second{
+    transform: translate(30px, 76px);
+    line-height: -10px ;
+    margin: -1px;
+}
+
+.third{
+    transform: translate(30px, 95px);
+    line-height: -10px ;
+    margin: -1px;
+}
+
+.fourth{
+    transform: translate(30px, 120px);
+    line-height: -10px ;
+    margin: -1px;
+}
+
+.fifth{
+    position: absolute;
+    left: 450px;
+    bottom: 350px;
+}
+.fifthp{
+    position: absolute;
+    left: 450px;
+    bottom: 315px;
+}
+
+
+.sixth{
+    position: absolute;
+    left: 450px;
+    bottom: 260px;
+    line-height: -10px ;
+    margin: -1px;
+}
+.sixthp{
+    position: absolute;
+    left: 450px;
+    bottom:195px ;
+}
+
+
+.seventh{
+    position: absolute;
+    left: 450px;
+    bottom: 170px;
+    line-height: -10px ;
+    margin: -1px;
+}
+.seventhp{
+    position: absolute;
+    left: 450px;
+    bottom: 105px;
+}
+
+.awronore{
+    width: 6rem;
+    margin-top: 30px;
+    margin-left: 60px;
+
+}
+
+.pl{
+    color: gray;
+    margin-top: 20px;
+    margin-left: 60px;
+    
+}
+.teal{
+    text-decoration: none !important;
+    color: grey !important;
+    display: block;
+    list-style: none;
+    border-width: 0px !important;
+
+}
+.teal:hover{
+    color: #039B99 !important;
+    cursor: pointer;
+ 
+}
+
+.svg1{
+width: 20px;
+height: 20px;
+position: absolute;
+left: 915px;
+bottom: -117px;
+}
+
+.svg2{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 915px;
+    bottom: -155px;
+}
+
+.svg3{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 915px;
+    bottom: -195px; 
+}
+
+
+.svg4{
+    width: 23px;
+    height: 23px;
+    position: absolute;
+    left: 915px;
+    bottom: -235px; 
+}
+
+.youtube{
+    width: 40px;
+    height: 40px;
+    fill: currentColor;
+    background-color:#EDF2F7 ;
+  padding: 7px;
+  border-radius: 100%;
+  margin-left: 80px;
+  margin-bottom: 90px;
+  margin-top: -40px;
+}
+.youtube:hover{
+    background-color: #868f8f;
+    transition: 0.7s;}
+
+
+.twitter{
+    width: 40px;
+    height: 40px;
+    fill: currentColor;
+    background-color:#EDF2F7 ;
+  padding: 7px;
+  border-radius: 100%;
+  margin-top: -65px;
+}
+.twitter:hover{
+    background-color: #868f8f;
+    transition: 0.7s;}
+
+
+.linkedin{ width: 40px;
+    height: 40px;
+    fill: currentColor;
+    background-color:#EDF2F7 ;
+  padding: 7px;
+  margin-top: -65px;
+  border-radius: 100%;}
+  .linkedin:hover{
+    background-color: #868f8f;
+    transition: 0.7s;}
+  
+
+.instagram{ width: 40px;
+    height: 40px;
+    fill: currentColor;
+    background-color:#EDF2F7 ;
+  padding: 7px;
+  margin-top: -65px;
+  border-radius: 100%;}
+  .instagram:hover{
+    background-color: #868f8f;
+    transition: 0.7s;}
+  
+
+.facebook{ width: 40px;
+    height: 40px;
+    margin-top: -65px;
+    fill: currentColor;
+    background-color:#EDF2F7 ;
+  padding: 7px;
+  border-radius: 100%;}
+  .facebook:hover{
+    background-color: #868f8f;
+    transition: 0.7s;}
+
+    .consult{
+        position: absolute;
+        left: 500px;
+        top: 900px;
+    }
+
+    .away{
+        color: white;
+        background-color: #29335c;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-top: 7px;
+        padding-bottom: 4px;
+    }
+    .away:hover{
+        color: white;
+    }
+
+    .awro{
+        width: 4rem;
+        margin-left: 20px;
+        margin-right: 25px;
+       cursor: pointer;
+    }
+    .thumb{
+     position:absolute;
+     margin-top: -270px;
+     width: 360px;
+     height: 250px;
+     border-radius: 20px;
+    }
